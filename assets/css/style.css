@@ -217,8 +217,10 @@ body {
     border: 0 none;
   }
 /* I was able to get most of the assignment complete however I am really having trouble
-with making and testing appropriate media queries. I am having the most trouble seeing any output when I make a change or edit to my mediaquery. */
-
+with making and testing appropriate media queries. 
+I am having the most trouble seeing any output when I make a change or edit to my mediaquery. */
+/* I also understand I need to code this so it shows up with different max widths and heighths for the variety of viewports that a mobile website or app could be accessed from. 
+This is still quite confusing and this is my pseudo-code for this necessary action */
 @media (min-width:500px)(max-width:640px) 
 {.main-section{font-size: 10px;
    float:center
